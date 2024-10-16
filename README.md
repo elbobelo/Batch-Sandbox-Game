@@ -6,3 +6,4 @@ Block Placing
 Animal AI
 Cave digging
 3 Dimensional ASCII graphics
+Multiplayer
